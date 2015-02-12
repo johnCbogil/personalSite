@@ -179,9 +179,8 @@ section {
 }
 
 section h2 {
-    margin: 0;
+    margin: 0 auto;
     font-size: 3em;
-    padding: 50px;
 }
 
 section.success {
